@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "912253519041",
+    "firebase_url": "https://location-application-79b6a.firebaseio.com",
+    "project_id": "location-application-79b6a",
+    "storage_bucket": "location-application-79b6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912253519041:android:19aab3795c80411f5dc040",
+        "android_client_info": {
+          "package_name": "com.example.locationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912253519041-5n58vnnodffg7r351ek3a87momqkt589.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEWMQa_KP7xUOpe3zZiXUhkqGOYhfFr5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912253519041-5n58vnnodffg7r351ek3a87momqkt589.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
